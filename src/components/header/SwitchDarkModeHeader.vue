@@ -1,5 +1,5 @@
 <template>
-  <div v-on:click="changeDarkMode" class="mr-5 self-center">
+  <div v-on:click="changeDarkMode" class="mr-7 self-center">
     <div v-if="darkMode">
       <i class="fa-solid fa-moon text-4xl dark:text-gray-100 text-gray-500"></i>
     </div>
