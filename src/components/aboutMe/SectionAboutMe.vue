@@ -5,16 +5,16 @@
         <CardAboutMe title="Eu"
           description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus asperiores illum quod quas ratione beatae error ipsa.">
 
-          <i class="fa-solid fa-user"></i>
+          <i class="dark:text-gray-100 fa-solid fa-user"></i>
 
         </CardAboutMe>
         <CardAboutMe title="Stack"
           description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus asperiores illum quod quas ratione beatae error ipsa.">
-          <i class="fa-solid fa-code"></i>
+          <i class="dark:text-gray-100 fa-solid fa-code"></i>
         </CardAboutMe>
         <CardAboutMe title="Procuro"
           description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus asperiores illum quod quas ratione beatae error ipsa.">
-         <i class="fa-solid fa-briefcase"></i>
+         <i class="dark:text-gray-100 fa-solid fa-briefcase"></i>
         </CardAboutMe>
       </div>
     </div>

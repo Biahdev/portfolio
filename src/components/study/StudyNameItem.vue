@@ -1,5 +1,5 @@
 <template>
-  <p class="font-semibold text-gray-600 text-base">{{ description }}</p>
+  <p class="font-semibold dark:text-gray-100 text-gray-600 text-base">{{ description }}</p>
 </template>
 
 <script>
