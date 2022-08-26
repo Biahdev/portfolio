@@ -13,7 +13,7 @@
         </a>
       </p>
 
-      <div class="flex flex-col lg:flex-row justify-between">
+      <div class="flex flex-col sm:flex-row justify-between">
         <div class="space-y-6 md:space-y-14 mb-14 md:mb-0">
           <StudyTitleItem title="Nome" />
 
