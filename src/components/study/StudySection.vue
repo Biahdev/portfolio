@@ -6,11 +6,8 @@
       </h1>
 
       <p class="font-normal dark:text-gray-400 text-gray-500 text-xs md:text-base mb-10">
-        <a href="">
-          <span class="font-semibold text-gray-500 text-md relative z-10">
-            Lista completa
-          </span>
-        </a>
+        bla bla bla
+        <a href="" class="font-semibold text-gray-500 text-md relative z-10">Lista completa</a>
       </p>
 
       <div class="flex flex-col sm:flex-row justify-between">

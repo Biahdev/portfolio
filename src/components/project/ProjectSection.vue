@@ -10,22 +10,20 @@
         </div>
         <div class="space-y-24 mt-16">
           <ProjectItem title="To-do" number="1">
-            aaaaa dasd asd Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br> Soluta dolor possimus
-            corrupti laboriosam, dicta illum.br Cumque ducimus ex <br> error, reiciendis at quidem, officia eligendi
-            voluptatibus ad corporis
-            id quis dolores.
+            É um sistema de gestão de tarefas simples e eficiente feito com  Vue.js, Vuex.js e Laravel <br>   usando o
+            padrão apiRest com crud completo.
+            <a class="font-semibold text-gray-500 text-md relative z-10" href="">Código fonte</a> e o
+            <a class="font-semibold text-gray-500 text-md relative z-10" href="">Demo</a>
           </ProjectItem>
           <ProjectItem title="Xadrez" number="2">
-            aaaaa dasd asd Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br> Soluta dolor possimus
-            corrupti laboriosam, dicta illum.br Cumque ducimus ex <br> error, reiciendis at quidem, officia eligendi
-            voluptatibus ad corporis
-            id quis dolores.
+            É um jogo de xadrez via linha de comando, feito para praticar conceitos de POO e o  básico do java.
+            <a class="font-semibold text-gray-500 text-md relative z-10" href="">Código fonte</a>
+
           </ProjectItem>
           <ProjectItem title="Calculadora" number="3">
-            aaaaa dasd asd Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br> Soluta dolor possimus
-            corrupti laboriosam, dicta illum.br Cumque ducimus ex <br> error, reiciendis at quidem, officia eligendi
-            voluptatibus ad corporis
-            id quis dolores.
+            Uma calculadora com as principais operações e DarkMode feito a partir HTML, CSS, JavaScript Vannila.
+            <a class="font-semibold text-gray-500 text-md relative z-10" href="https://github.com/BiahDev/calculator">Código fonte</a> e o
+            <a class="font-semibold text-gray-500 text-md relative z-10" href="https://biahdev.github.io/calculator/">Demo</a>
           </ProjectItem>
         </div>
       </div>

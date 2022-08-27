@@ -39,7 +39,7 @@
         </h1>
 
         <p class="font-normal dark:text-gray-300 text-gray-600 text-md md:text-xl mb-16">
-          I have a passion for software. I enjoy creating tools that make life easier for people.
+          Apaixonada por tecnologia e inovação
         </p>
         <BtnHeader title="Entre em contato" link="#contato" />
       </div>

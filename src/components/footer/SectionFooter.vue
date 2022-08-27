@@ -6,9 +6,9 @@
       <div class="text-center">
         <h1 class="dark:text-gray-100 font-medium text-gray-700 text-4xl md:text-5xl mb-5">Contato</h1>
 
-        <p class="dark:text-gray-300 font-normal text-gray-400 text-md md:text-lg mb-20">I’m not currently taking on new
-          client work but
-          feel free to contact me for any <br> other inquiries.</p>
+        <p class="dark:text-gray-300 font-normal text-gray-400 text-md md:text-lg mb-20">
+          Caso deseje entrar em contato
+        </p>
 
         <div class="flex items-center justify-center space-x-8">
           <a href="#"

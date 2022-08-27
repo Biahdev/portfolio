@@ -13,7 +13,7 @@
           <i class="dark:text-gray-100 fa-solid fa-code"></i>
         </CardAboutMe>
         <CardAboutMe title="Procuro"
-          description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus asperiores illum quod quas ratione beatae error ipsa.">
+          description="No momento estou a procura de uma oportunidade para trabalhar como junior Laravel e vue ou estagio  Java">
          <i class="dark:text-gray-100 fa-solid fa-briefcase"></i>
         </CardAboutMe>
       </div>
